@@ -1,30 +1,58 @@
-Add details about the day*
-Date_XX.XX.XXXX
-General_Topic
-Notes*
-Learned\_
-For_next_day
+# Daily Bootcamp Notes
 
-This is the final test for my notes
+## Date
 
----
+16.03.2026
 
-🤔 Reflection Questions
-Exerc. 2.
-What challenges did you encounter while collaborating using Git and GitHub?
+## Topic
 
-> struggle to understand the right path, files, branch, file
-> swtiching between git and github sometimes creates a lag in thought process
-> mirco managment- right place - right folder -right termin. for folder-remeber all terms- muscle memory missing-it'S not neutral yet
-> How did you resolve any merge conflicts?
-> We had not specificly merge errors but if we had some: we talked, we shared screen, went throught notes, and ask ChatGPT
-> What did you learn from reviewing your partner’s code?
-> how to use the Mac
-> we are same paced
-> both struggle for different situation
-> How do branches help improve collaboration?
-> save space, no impact on main, you get to work on your own, you can make mistakes
-> can work at the same time on multiple areas of the code/project
-> What best practices will you adopt when working with Git and GitHub?
-> always first now, where u are
-> work on ur local machine and then on github
+Git & GitHub Collaboration
+
+## Notes
+
+This is the final test for my notes.
+
+### Key Concepts
+
+- Git branches
+- Switching branches
+- Working locally vs GitHub
+
+## What I Learned
+
+- Git branches allow safe experimentation without affecting `main`.
+- Git protects files when switching branches if there are uncommitted changes.
+- Working locally first and pushing later keeps the workflow cleaner.
+
+## Challenges
+
+- Understanding the correct path, folder structure, and branch location.
+- Switching between Git (local) and GitHub (remote) sometimes interrupts the thought process.
+- Many new commands and terms still require practice.
+
+## How We Solved Problems
+
+- Discussed issues together
+- Shared screens
+- Reviewed notes
+- Asked ChatGPT when stuck
+
+## Reflection
+
+### What did you learn from reviewing your partner’s code?
+
+- Improved understanding of macOS workflow
+- Realized we learn at a similar pace
+- Different people struggle with different aspects of the workflow
+
+### How do branches help collaboration?
+
+- Work independently without affecting `main`
+- Multiple contributors can work on different features
+- Mistakes can be isolated safely
+
+### Best practices going forward
+
+- Always check which branch you are on
+- Work locally first before pushing to GitHub
+- Commit changes regularly
