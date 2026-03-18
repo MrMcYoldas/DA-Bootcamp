@@ -1,0 +1,54 @@
+2026-03-17_Jupyter Notebooks and basic data cleaning.md
+
+# 2026-03-17 – Jupyter Notebooks and basic data cleaning
+
+## Topic
+
+- Python basics: types, operators, variables, strings
+- Jupyter Notebook workflow
+- Basic data cleaning with string methods
+
+## Key Concepts
+
+- Numeric operators: `+`, `-`, `*`, `/`, `**`
+- Booleans and comparisons: `True`, `False`, `==`, `!=`, `>`, `<`
+- Variables and reassignment, including `+=` and `-=`
+- Strings, concatenation, `.replace()`, `.split()`, `.lower()`, `.title()`
+
+## What I Learned
+
+- A variable stores a value and can be updated step by step.
+- Jupyter keeps variables in memory, so rerunning a cell can stack changes unless I reset the kernel or redefine the variable.
+- Means can return decimals even if the original values are integers.
+- Rounding to 2 decimals is for formatting and analysis, not the same as rounding to a whole number.
+- String cleaning is important for data work, for example lowercasing names, replacing `&` with `and`, and extracting email providers.
+- Jupyter notebooks combine text explanations and code cells, which makes them useful as an interactive learning and analysis space.
+
+## Challenges
+
+- There are many new Python terms, and they need muscle memory.
+- I used autocomplete too much in one task, which made it easier but reduced my learning, so I need to redo parts myself.
+- I had to understand why repeated string concatenation kept adding more `"Hello, "` each time.
+- I had to clarify why average age can be a decimal even though a person’s age is usually expressed as a whole number.
+
+## Reflection
+
+Today was about building the real basics of Python. I practiced operators, variables, and strings, and started understanding how Jupyter notebooks behave differently from a normal script because they keep values in memory. I also saw how Python can support data cleaning tasks, especially with string methods. My main takeaway is that I need more repetition and less dependence on autocomplete so the syntax and terms become natural.
+
+## Agenda / Work Completed
+
+- Solved operator exercises and predicted computation results
+- Practiced string operations that return text, `True`, `False`, and numeric results
+- Worked through variable reassignment step by step
+- Calculated a mean manually and rounded it
+- Built a small kilometers-to-miles conversion example
+- Practiced string tasks with quotes, concatenation, replace, and split
+- Cleaned customer names using lowercase and replacement logic
+- Extracted email providers from email addresses
+
+## What I asked ChatGPT today
+
+- Why Jupyter did not show a calculation result after assignment
+- Why rerunning `x = "Hello, " + x` kept adding more hellos and how to reset it
+- Why average age can become a decimal and what rounding to 2 decimals really means
+- Help understanding variables, reassignment, and notebook behavior
